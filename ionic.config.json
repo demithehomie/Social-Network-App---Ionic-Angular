@@ -1,0 +1,7 @@
+{
+  "name": "trabalhoads3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
